@@ -3,8 +3,15 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Coding Animation">
 </p>
 
-<h1 align="center">Hi 👋, I'm Dulan Nimnaka</h1>
-<h3 align="center">A Passionate Computer Science Student & Software Developer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dulan-nimnakae&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+!+My+name+is+Dulan+Nimnaka;%20%20A+Passionate+Computer+Science+Student;Software+Developer+%26+Tech+Explorer&color=36BCF7" alt="Typing SVG" />
+</h1>
+
 
 ---
 
