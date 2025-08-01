@@ -39,5 +39,5 @@
 
 <!-- Footer Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Footer">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqNHZ4dDUwMnBsd3d2bTA5emZ0ZmNyNTQ2dTE5enRhMmJpOTZmaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Coding Footer">
 </p>
