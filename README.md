@@ -16,12 +16,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web Development & Software Projects**  
-- 🌱 I’m currently learning **Full Stack Development (React, Node.js)**  
-- 👯 I’m looking to collaborate on **Open Source & Innovative Tech Projects**  
-- 🤔 I’m looking for help with **Advanced Java & Cloud Technologies**  
+- 🔭 I’m currently working on **Web Development & Software Projects** 
+- 👯 I’m looking to collaborate on **Open Source & Innovative Tech Projects**
 - 💬 Ask me about **Python, Java, Web Development, and GitHub Projects**  
-- 📫 How to reach me: **info.dulannimnaka@gmail.com**   
+- 📫 How to reach me: **[ConnectMe](https://dulan-nimnaka.github.io/connectme/)**   
 
 ---
 
