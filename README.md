@@ -25,23 +25,13 @@
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <!-- <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dulan-nimnaka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=9C27B0" />
-    </td> -->
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dulan-nimnaka&theme=radical&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
-    </td>
-    <!-- <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulan-nimnaka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7" />
-    </td> -->
-  </tr>
-</table>
-
+<div align="center">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulan-nimnaka&theme=radical" alt="GitHub Streak Stats" width="500" /> -->
 </div>
 
-<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats-zeta-lac.vercel.app?user=dulan-nimnaka&theme=dark)](https://git.io/streak-stats)
+
+
   
 ## 📊 GitHub Stats
 
