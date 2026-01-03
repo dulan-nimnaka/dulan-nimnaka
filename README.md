@@ -53,7 +53,7 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bootstrap&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,bootstrap&theme=dark&perline=6" />
 </p>
 
 ### 🗄️ Databases & Tools
