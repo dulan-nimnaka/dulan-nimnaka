@@ -56,9 +56,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,bootstrap&theme=dark&perline=6" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases , 🔧 Tools , ☁️ Cloud Services & 💻 OS
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,gitlab,figma,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,gitlab,figma,vscode,postman,azure,windows,apple,linux&theme=dark&perline=6" />
 </p>
 
 </div>
