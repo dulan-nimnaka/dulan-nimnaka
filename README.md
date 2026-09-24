@@ -53,12 +53,37 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,bootstrap&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,next,nodejs,bootstrap&theme=dark&perline=7" />
 </p>
 
-### 🗄️ Databases , 🔧 Tools , ☁️ Cloud Services & 💻 OS
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,gitlab,figma,vscode,postman,azure,windows,apple,linux&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark&perline=3" />
+</p>
+
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark&perline=6" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,nginx,linux&theme=dark&perline=4" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark&perline=3" />
+</p>
+
+### 🧪 Testing & QA
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,selenium&theme=dark&perline=2" />
+</p>
+
+### 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux&theme=dark&perline=3" />
 </p>
 
 </div>
