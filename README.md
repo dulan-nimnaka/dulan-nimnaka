@@ -41,52 +41,65 @@
 
 </div>
 
-<!-- Tech Stack with Icons Grid -->
+<!-- Tech Stack -->
+
 <div align="center">
 
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript&theme=dark&perline=4" />
 </p>
 
 ### 🌐 Web Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,next,nodejs,bootstrap&theme=dark&perline=7" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark&perline=3" />
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark&perline=6" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,nginx,linux&theme=dark&perline=4" />
-</p>
-
 ### ⚙️ Backend & APIs
+
 <p>
   <img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark&perline=3" />
 </p>
 
+<p>
+  <strong>REST APIs · API Design · Client-Server Architecture · JSON</strong>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,firebase&theme=dark&perline=5" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark&perline=6" />
+</p>
+
+### ☁️ Cloud, Deployment & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,nginx,linux,cloudflare,vercel&theme=dark&perline=6" />
+</p>
+
+<p>
+  <strong>Oracle Cloud Infrastructure (OCI) · VPS · Ubuntu · Nginx · Gunicorn · DNS</strong>
+</p>
+
 ### 🧪 Testing & QA
+
 <p>
   <img src="https://skillicons.dev/icons?i=postman,selenium&theme=dark&perline=2" />
 </p>
 
-### 💻 Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux&theme=dark&perline=3" />
-</p>
+  <strong>API Testing · Functional Testing · Software QA · Test Cases · Bug Tracking</
 
-</div>
 
 <!-- About Me Section with Cards -->
 <div align="center">
